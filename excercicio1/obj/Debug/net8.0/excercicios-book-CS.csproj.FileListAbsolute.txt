@@ -1,0 +1,14 @@
+/home/silascunha97/Projetos/excercicios-book-CS/obj/Debug/net8.0/excercicios-book-CS.GeneratedMSBuildEditorConfig.editorconfig
+/home/silascunha97/Projetos/excercicios-book-CS/obj/Debug/net8.0/excercicios-book-CS.AssemblyInfoInputs.cache
+/home/silascunha97/Projetos/excercicios-book-CS/obj/Debug/net8.0/excercicios-book-CS.AssemblyInfo.cs
+/home/silascunha97/Projetos/excercicios-book-CS/obj/Debug/net8.0/excercicios-book-CS.csproj.CoreCompileInputs.cache
+/home/silascunha97/Projetos/excercicios-book-CS/bin/Debug/net8.0/excercicios-book-CS
+/home/silascunha97/Projetos/excercicios-book-CS/bin/Debug/net8.0/excercicios-book-CS.deps.json
+/home/silascunha97/Projetos/excercicios-book-CS/bin/Debug/net8.0/excercicios-book-CS.runtimeconfig.json
+/home/silascunha97/Projetos/excercicios-book-CS/bin/Debug/net8.0/excercicios-book-CS.dll
+/home/silascunha97/Projetos/excercicios-book-CS/bin/Debug/net8.0/excercicios-book-CS.pdb
+/home/silascunha97/Projetos/excercicios-book-CS/obj/Debug/net8.0/excercicios-book-CS.dll
+/home/silascunha97/Projetos/excercicios-book-CS/obj/Debug/net8.0/refint/excercicios-book-CS.dll
+/home/silascunha97/Projetos/excercicios-book-CS/obj/Debug/net8.0/excercicios-book-CS.pdb
+/home/silascunha97/Projetos/excercicios-book-CS/obj/Debug/net8.0/excercicios-book-CS.genruntimeconfig.cache
+/home/silascunha97/Projetos/excercicios-book-CS/obj/Debug/net8.0/ref/excercicios-book-CS.dll
