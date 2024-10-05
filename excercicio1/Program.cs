@@ -1,9 +1,9 @@
 ﻿/* 
-    Elabore um programa que efetue o cálculo de salário de um profissional horista.
-o programa deve solicitar as horas trabalhadas, o valor da hora o percentual de desconto
-para apresentar o salário bruto o total de desconto salário líquido execute o comando
-do projeto forneça nome para o projeto acione o botão aqui para se lembrar de uma das
-selecionada a sequência opcional. */
+        Elabore um programa que efetue o cálculo de salário de um profissional horista.
+    o programa deve solicitar as horas trabalhadas, o valor da hora o percentual de desconto
+    para apresentar o salário bruto o total de desconto salário líquido execute o comando
+    do projeto forneça nome para o projeto acione o botão aqui para se lembrar de uma das
+    selecionada a sequência opcional. */
 using System;
 using System.Collections.Generic;
 
