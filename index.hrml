@@ -1,0 +1,88 @@
+<html>
+<p>
+  Excercicios:36.
+    Calcular a quantidade litros de combustível gasta em uma viagem, utilizando um automoval que faz 12km por litro.
+  para  um cálculo, o usuario deve fornecer o tempo gasto na viagem e a velocidade média. Dessa forma, é possivel obter
+  a distância percorrida com a fórmula DISTANCIA=TEMPO*VELOCIDADE. Tendo o valor da distancia, basta calcular a quantidade
+  de litros de combústivel utilizada na viagem com a fórmu LITROS_USADIS = DISTANCIA/12. O Programa deve apresentar os valores
+  da velocidade média, o tempo gasto, a distância percorrida e a quantidade litros utilizados na viagem. Trabalhe com valores reais.
+  
+  Tipos de dados inteiros:
+  Double,
+  Float,
+  Long,
+  Decimal.
+
+  <strong>
+  
+    C# para Calcular Consumo de Combustível em Viagem
+Análise do Problema:
+
+Entrada: Tempo da viagem (horas), velocidade média (km/h).
+Processamento:
+Calcular a distância percorrida: Distância = Tempo * Velocidade.
+Calcular o consumo de combustível: Litros = Distância / 12 (consumo do veículo).
+Saída: Velocidade média, tempo gasto, distância percorrida, litros de combustível.
+Código C#:
+
+C#
+using System;
+
+namespace CalculoCombustivel
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Declaração das variáveis
+            double tempoViagem, velocidadeMedia, distanciaPercorrida, litrosUsados;
+
+            // Entrada de dados
+            Console.Write("Digite o tempo da viagem em horas: ");
+            tempoViagem = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Digite a velocidade média em km/h: ");
+            velocidadeMedia = Convert.ToDouble(Console.ReadLine());   
+
+
+            // Cálculos
+            distanciaPercorrida = tempoViagem * velocidadeMedia;
+            litrosUsados = distanciaPercorrida / 12;
+
+            // Saída de dados
+            Console.WriteLine("\nResultados da viagem:");
+            Console.WriteLine($"Velocidade média: {velocidadeMedia} km/h");
+            Console.WriteLine($"Tempo gasto: {tempoViagem} horas");
+            Console.WriteLine($"Distância percorrida: {distanciaPercorrida} km");
+            Console.WriteLine($"Litros de combustível utilizados: {litrosUsados:F2} L");
+        }
+    }
+}
+Use o código com cuidado.
+
+Explicação do Código:
+
+Declaração de variáveis: Utilizamos o tipo double para armazenar valores reais como tempo, velocidade, distância e consumo, pois eles podem ter casas decimais.
+Entrada de dados: O programa solicita ao usuário que insira o tempo da viagem e a velocidade média. Os valores digitados são convertidos para o tipo double e armazenados nas respectivas variáveis.
+Cálculos: As fórmulas para calcular a distância percorrida e o consumo de combustível são implementadas de acordo com o enunciado.
+Saída de dados: Os resultados dos cálculos são formatados e exibidos na tela, incluindo a quantidade de litros de combustível utilizada com duas casas decimais (:F2).
+Observações:
+
+Tipo de dado: O tipo double é adequado para representar números reais com precisão suficiente para este cálculo. Os outros tipos mencionados (float, long, decimal) poderiam ser utilizados em situações específicas, mas o double é o mais comum para cálculos numéricos em geral.
+Formatação da saída: A formatação :F2 na última linha garante que o valor de litrosUsados seja exibido com duas casas decimais, o que é padrão para representar volumes.
+Validação de dados: Para tornar o programa mais robusto, seria interessante adicionar validação de dados para garantir que o usuário insira valores positivos e numéricos.
+Modularização: Para organizar melhor o código, você pode criar funções separadas para cada cálculo (calcularDistância, calcularConsumo), tornando o código mais reutilizável e fácil de entender.
+Exemplo de uso:
+
+Se o usuário digitar 3 horas para o tempo da viagem e 80 km/h para a velocidade média, o programa irá calcular e exibir:
+
+Resultados da viagem:
+Velocidade média: 80 km/h
+Tempo gasto: 3 horas
+Distância percorrida: 240 km
+Litros de combustível utilizados: 20,00 L
+Este código C# fornece uma solução completa e eficiente para o problema proposto, calculando o consumo de combustível de forma precisa e apresentando os resultados de forma clara e organizada.
+
+  <\strong>
+<p>
+</html>

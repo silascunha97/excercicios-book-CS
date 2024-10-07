@@ -1,0 +1,4 @@
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/obj/Debug/net8.0/excercicio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/obj/Debug/net8.0/excercicio2.AssemblyInfoInputs.cache
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/obj/Debug/net8.0/excercicio2.AssemblyInfo.cs
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/obj/Debug/net8.0/excercicio2.csproj.CoreCompileInputs.cache
