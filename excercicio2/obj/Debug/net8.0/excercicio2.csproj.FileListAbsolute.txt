@@ -2,3 +2,13 @@
 /home/silascunha97/Projetos/excercicios-book-CS/excercicio2/obj/Debug/net8.0/excercicio2.AssemblyInfoInputs.cache
 /home/silascunha97/Projetos/excercicios-book-CS/excercicio2/obj/Debug/net8.0/excercicio2.AssemblyInfo.cs
 /home/silascunha97/Projetos/excercicios-book-CS/excercicio2/obj/Debug/net8.0/excercicio2.csproj.CoreCompileInputs.cache
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/bin/Debug/net8.0/excercicio2
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/bin/Debug/net8.0/excercicio2.deps.json
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/bin/Debug/net8.0/excercicio2.runtimeconfig.json
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/bin/Debug/net8.0/excercicio2.dll
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/bin/Debug/net8.0/excercicio2.pdb
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/obj/Debug/net8.0/excercicio2.dll
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/obj/Debug/net8.0/refint/excercicio2.dll
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/obj/Debug/net8.0/excercicio2.pdb
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/obj/Debug/net8.0/excercicio2.genruntimeconfig.cache
+/home/silascunha97/Projetos/excercicios-book-CS/excercicio2/obj/Debug/net8.0/ref/excercicio2.dll
